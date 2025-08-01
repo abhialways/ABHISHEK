@@ -6,10 +6,10 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/chvabhishek">
+  <a href="(https://github.com/abhialways)">
     <img src="https://komarev.com/ghpvc/?username=chvabhishek&label=Profile%20views&color=blueviolet&style=flat-square" alt="chvabhishek">
   </a>
-  <a href="https://github.com/chvabhishek">
+  <a href="(https://github.com/abhialways)
     <img src="https://img.shields.io/github/followers/chvabhishek?label=Followers&style=flat-square&color=blue" alt="GitHub Followers">
   </a>
 </p>
